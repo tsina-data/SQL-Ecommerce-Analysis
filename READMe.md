@@ -13,7 +13,7 @@ Welcome to my end-to-end Data Analytics portfolio project! In this repository, I
 *'cte_practice.sql' — Using Common Table Expressions for clean, readable revenue filtering.
 *'ecommerce_pandas_analysis.ipynb' — Python script for DataFrame creation, filtering VIP customers, and calculating total/average revenue.
 ## 📈 Live Interactive Dashboards (Tableau Public)
-👉 **View My Tableau Public Portfolio Here (https://tableau.com/)**
+👉 **View My Tableau Public Portfolio Here (https://public.tableau.com/app/profile/tsega.yohannes/vizzes)**
 * **E-Commerce Customer Performance Dashboard**
 * **Customer Tier Analysis (Platinum, Gold, Silver)**
 * **Subquery - High Value Orders**
